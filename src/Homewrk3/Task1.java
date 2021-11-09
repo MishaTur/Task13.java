@@ -10,7 +10,7 @@ public class Task1 {
     y /= x + 5 % z;
     z = x++ + y * 5;
     x = y - x++ * z;
-    System.out.println(x);
+    System.out.println(x+"s");
     System.out.println(y);
     System.out.println(z);
     }
