@@ -6,7 +6,7 @@ import java.util.concurrent.SynchronousQueue;
 public class Bank {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Введіть сумму кредиту");
+        System.out.println("Введіть сумму кредиту please");
         sc = new Scanner(System.in);
         int kredit = sc.nextInt();
         System.out.println("Введіть сумму платежу");
